@@ -1,0 +1,22 @@
+{
+  "short_name": "NextJS App Template",
+  "name": "NextJS App Template",
+  "icons": [
+    {
+      "src": "\/android-icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image\/png",
+      "density": "1.0"
+    },
+    {
+      "src": "\/android-icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image\/png",
+      "density": "2.0"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#333",
+  "background_color": "#ffffff"
+}
