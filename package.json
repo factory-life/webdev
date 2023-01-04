@@ -7,7 +7,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-    "export": "next export"
   },
   "dependencies": {
     "@use-it/event-listener": "^0.1.7",
